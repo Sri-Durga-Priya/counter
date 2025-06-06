@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  font-family:'Times New Roman';
+  margin-top:50px;
+  padding: 10px;
+  font-size: medium;
+  background-color: rgb(75, 151, 201);
+  
+
+}
+body{
+  color:beige;
+}
+button{
+  border-radius: 20px;
+}
